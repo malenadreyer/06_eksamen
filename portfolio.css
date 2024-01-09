@@ -522,7 +522,7 @@ p {
   #tema4_1 {
     display: grid;
     position: relative;
-    grid-template-rows: 2fr 3fr;
+    grid-template-rows: 2fr 4fr;
     margin-top: 55px;
   }
 
