@@ -231,7 +231,7 @@ p {
   #om1 {
     display: grid;
     margin-top: 50px;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 1fr 2fr;
     justify-content: center;
     text-align: center;
   }
